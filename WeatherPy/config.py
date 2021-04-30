@@ -1,2 +1,2 @@
 # Enter your API key
-api_key = "Enter Here"
+api_key = "enter here"
