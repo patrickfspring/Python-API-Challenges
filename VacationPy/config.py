@@ -1,3 +1,3 @@
 # Enter your API key
-api_key = "enter key here"
-gkey = "enter key here" 
+api_key = "enter here"
+gkey = "enter here" 

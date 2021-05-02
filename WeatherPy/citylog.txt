@@ -1,838 +1,671 @@
-City Id and Name: 2264557 Ponta do Sol
-City Id and Name: 3347853 Longonjo
-City Id and Name: 2155415 New Norfolk
-City Id and Name: 5122534 Jamestown
-City Id and Name: 4030556 Rikitea
-City Id and Name: 2630299 Hofn
-City Id and Name: 1015776 Bredasdorp
-City Id and Name: 1282256 Hithadhoo
-City Id and Name: 2013392 Vilyuysk
-City Id and Name: 2618795 Klaksvík
-City Id and Name: 5335650 Ceres
-City Id and Name: 3427761 Tigre
-City Id and Name: 1633419 Padang
-City Id and Name: 2033168 Zhaodong
-City Id and Name: 3372707 Ribeira Grande
-City Id and Name: 3833367 Ushuaia
-City Id and Name: 3911925 La Paz
-City Id and Name: 4031574 Provideniya
-City Id and Name: 6089245 Norman Wells
-City Id and Name: 5848280 Kapaa
+City Id and Name: 2980080 Saint-François
+City Id and Name: 2108857 Gizo Government Station
+City Id and Name: 4032243 Vaini
+City Id and Name: 1106677 Bambous Virieux
 City Id and Name: 6201424 Mataura
-City Id and Name: 2015306 Tiksi
-City Id and Name: 5110365 Broome
-City Id and Name: 3652764 Puerto Ayora
-City Id and Name: 1735106 George Town
-City Id and Name: 1797117 Rongcheng
-City Id and Name: 1634614 Nabire
+City Id and Name: 6096551 Pangnirtung
+City Id and Name: 1015776 Bredasdorp
+City Id and Name: 1627035 Simpang
+City Id and Name: 2629833 Husavik
+City Id and Name: 3988361 Ruíz
+City Id and Name: 2422924 Boké
+City Id and Name: 3833367 Ushuaia
+City Id and Name: 2312888 Mbanza-Ngungu
+City Id and Name: 5282297 Bethel
+City Id and Name: 3372783 Ponta Delgada
+City Id and Name: 2110227 Butaritari
+City Id and Name: 2121385 Severo-Kuril'sk
+City Id and Name: 6185377 Yellowknife
+City Id and Name: 5380437 Pacific Grove
+City Id and Name: 2075265 Busselton
+City Id and Name: 3831208 Qaanaaq
+City Id and Name: 4034551 Faanui
+City Id and Name: 1062553 Mahanoro
+City Id and Name: 5848280 Kapaa
+City Id and Name: 3697441 El Alto
 City Id and Name: 3874787 Punta Arenas
-City Id and Name: 3424607 Tasiilaq
-City Id and Name: 2084442 Vanimo
-City Id and Name: 3883457 Lebu
+City Id and Name: 1651810 Airai
+City Id and Name: 2206939 Bluff
 City Id and Name: 3369157 Cape Town
 City Id and Name: 3366880 Hermanus
-City Id and Name: 3372964 Lagoa
-City Id and Name: 2145214 Victoria Point
-City Id and Name: 5106841 Albany
-City Id and Name: 2126123 Chokurdakh
-City Id and Name: 1078553 Ampanihy
-City Id and Name: 6165406 Thompson
-City Id and Name: 4032243 Vaini
-City Id and Name: 964432 Port Alfred
-City Id and Name: 3831208 Qaanaaq
-City Id and Name: 2037485 Erenhot
-City Id and Name: 2137773 Vao
-City Id and Name: 3984997 San Quintín
-City Id and Name: 2206939 Bluff
-City Id and Name: 2027042 Batagay-Alyta
-City Id and Name: 4034551 Faanui
-City Id and Name: 217570 Buta
-City Id and Name: 2163355 Hobart
-City Id and Name: 1244926 Hambantota
-City Id and Name: 3985710 Cabo San Lucas
-City Id and Name: 2075265 Busselton
-City Id and Name: 2032201 Bulgan
-City Id and Name: 1733432 Kota Kinabalu
-City Id and Name: 4013679 Coahuayana Viejo
-City Id and Name: 780687 Berlevåg
-City Id and Name: 1819729 Hong Kong
-City Id and Name: 1812256 Dongsheng
-City Id and Name: 5095779 Bloomfield
-City Id and Name: 5404476 Ukiah
-City Id and Name: 5924351 Clyde River
-City Id and Name: 5134189 Rockland
-City Id and Name: 1106643 Quatre Cocos
-City Id and Name: 2126710 Beringovskiy
-City Id and Name: 1267448 Katra
-City Id and Name: 486645 Sukhobezvodnoye
-City Id and Name: 4035715 Avarua
-City Id and Name: 1507390 Dikson
-City Id and Name: 2246922 Ouro Sogui
-City Id and Name: 154654 Masumbwe
-City Id and Name: 2276492 Harper
-City Id and Name: 2112802 Hasaki
-City Id and Name: 964712 Plettenberg Bay
-City Id and Name: 468063 Yelan'
-City Id and Name: 4074277 Madison
-City Id and Name: 3416888 Grindavik
-City Id and Name: 6111862 Port Hardy
-City Id and Name: 933995 Souillac
-City Id and Name: 2517750 Felanitx
-City Id and Name: 92004 Rāwah
-City Id and Name: 2377457 Nouadhibou
-City Id and Name: 1684803 Tabuk
-City Id and Name: 5905393 Bonavista
-City Id and Name: 5563839 Fortuna
-City Id and Name: 3700393 Tubualá
-City Id and Name: 2134814 Sola
-City Id and Name: 2361586 Dano
-City Id and Name: 2400547 Gamba
-City Id and Name: 5557293 Sitka
-City Id and Name: 935215 Saint-Philippe
-City Id and Name: 2729907 Longyearbyen
-City Id and Name: 4560349 Philadelphia
-City Id and Name: 3471451 Arraial do Cabo
-City Id and Name: 2122090 Pevek
-City Id and Name: 2629833 Husavik
-City Id and Name: 5983607 Inuvik
-City Id and Name: 3423146 Ilulissat
-City Id and Name: 4020109 Atuona
-City Id and Name: 687726 Zaozyornoye
-City Id and Name: 974670 Mondlo
-City Id and Name: 2950159 Berlin
-City Id and Name: 1802618 Longhua
-City Id and Name: 2012956 Yerbogachën
-City Id and Name: 4944903 Nantucket
-City Id and Name: 4021858 Guerrero Negro
-City Id and Name: 3488465 Spanish Town
-City Id and Name: 3347019 Mossamedes
-City Id and Name: 151610 Ngorongoro
-City Id and Name: 3163146 Andenes
-City Id and Name: 759412 Siedlce
-City Id and Name: 5975004 High Level
-City Id and Name: 2521923 Almansa
-City Id and Name: 2208248 Kaitangata
-City Id and Name: 5855927 Hilo
-City Id and Name: 546105 Nikolskoye
-City Id and Name: 4014336 Chihuahua
-City Id and Name: 6179652 Weyburn
-City Id and Name: 962367 Richards Bay
-City Id and Name: 2074865 Carnarvon
-City Id and Name: 7601762 Bairiki Village
-City Id and Name: 2110227 Butaritari
-City Id and Name: 3421719 Narsaq
-City Id and Name: 5880054 Barrow
-City Id and Name: 1809222 Gushi
-City Id and Name: 6063191 Mackenzie
-City Id and Name: 2136150 Luganville
-City Id and Name: 6096551 Pangnirtung
-City Id and Name: 2455290 Kidal
-City Id and Name: 3430863 Mar del Plata
-City Id and Name: 2023226 Kamen'-Rybolov
-City Id and Name: 5870133 Nome
-City Id and Name: 2094027 Kieta
-City Id and Name: 1502862 Kolpashevo
-City Id and Name: 6453316 Tromsø
-City Id and Name: 1510689 Baykit
-City Id and Name: 4360314 Langley Park
-City Id and Name: 2216432 Jadu
-City Id and Name: 4031637 Lavrentiya
-City Id and Name: 483650 Temyasovo
-City Id and Name: 4033557 Tautira
-City Id and Name: 6170031 Tuktoyaktuk
-City Id and Name: 5972762 Hay River
-City Id and Name: 5983720 Iqaluit
-City Id and Name: 380348 Abū Zabad
-City Id and Name: 1006984 East London
-City Id and Name: 3374210 São Filipe
-City Id and Name: 1863495 Gushikawa
-City Id and Name: 2121385 Severo-Kuril'sk
-City Id and Name: 4377925 Boone
-City Id and Name: 4148757 Brandon
-City Id and Name: 3460622 Itarantim
-City Id and Name: 3137469 Sørland
-City Id and Name: 1490256 Talnakh
-City Id and Name: 4470244 Havelock
-City Id and Name: 5545269 Price
-City Id and Name: 3466704 Castro
-City Id and Name: 475469 Verkhnetulomskiy
-City Id and Name: 3359638 Walvis Bay
-City Id and Name: 2071860 Esperance
-City Id and Name: 286621 Salalah
-City Id and Name: 2013399 Vikhorevka
-City Id and Name: 4683244 Copperas Cove
-City Id and Name: 3926438 Urubamba
-City Id and Name: 2444219 Gouré
-City Id and Name: 625324 Mazyr
-City Id and Name: 3092472 Malbork
-City Id and Name: 2177069 Ballina
-City Id and Name: 5746545 Portland
-City Id and Name: 698740 Odesa
-City Id and Name: 1684245 Tagusao
-City Id and Name: 964420 Port Elizabeth
-City Id and Name: 1496073 Orlik
-City Id and Name: 898905 Sesheke
-City Id and Name: 915285 Kalengwa
-City Id and Name: 3893726 Constitución
-City Id and Name: 3924908 Pimenta Bueno
-City Id and Name: 1485312 Zdvinsk
-City Id and Name: 2063036 Port Lincoln
-City Id and Name: 1637001 Biak
-City Id and Name: 3855065 General Roca
-City Id and Name: 5380437 Pacific Grove
-City Id and Name: 1651591 Amahai
-City Id and Name: 3402648 Carutapera
-City Id and Name: 777073 Vadsø
-City Id and Name: 1502073 Krasnosel'kup
-City Id and Name: 6137381 Saint-Ambroise
-City Id and Name: 2173125 Burnie
-City Id and Name: 3838233 Salta
-City Id and Name: 752278 Alaca
-City Id and Name: 5282297 Bethel
-City Id and Name: 3471940 Aparecida do Taboado
-City Id and Name: 4333811 Morgan City
-City Id and Name: 5851349 Nānākuli
-City Id and Name: 5808079 Redmond
-City Id and Name: 1810845 Fuyang
-City Id and Name: 2022572 Khatanga
-City Id and Name: 933815 Dekar
-City Id and Name: 3395458 Maragogi
-City Id and Name: 2016412 Smidovich
-City Id and Name: 2068110 Kununurra
-City Id and Name: 2070998 Geraldton
-City Id and Name: 2171845 Cessnock
-City Id and Name: 2643044 Margate
-City Id and Name: 1106677 Bambous Virieux
-City Id and Name: 3115824 Muros
-City Id and Name: 3516171 Barra de Tecoanapa
-City Id and Name: 6145890 Shelburne
-City Id and Name: 4580575 Greenwood
-City Id and Name: 3466165 Cidreira
-City Id and Name: 107304 Buraidah
-City Id and Name: 6255012 Flinders
-City Id and Name: 3419842 Sisimiut
-City Id and Name: 4036284 Alofi
-City Id and Name: 3382160 Cayenne
-City Id and Name: 610864 Khani
-City Id and Name: 2027275 Bada
-City Id and Name: 5503914 Fallon
-City Id and Name: 1067565 Beloha
-City Id and Name: 2304548 Anloga
-City Id and Name: 350203 Rosetta
-City Id and Name: 5856195 Honolulu
-City Id and Name: 338998 Dilla
-City Id and Name: 934322 Mahébourg
-City Id and Name: 2094342 Kavieng
-City Id and Name: 2026708 Bichura
-City Id and Name: 4726521 San Patricio
-City Id and Name: 3373790 Holetown
-City Id and Name: 2194098 Ahipara
-City Id and Name: 2173911 Broken Hill
-City Id and Name: 2641598 Newport
-City Id and Name: 1735106 George Town
-City Id and Name: 990930 Kimberley
-City Id and Name: 2065176 Murray Bridge
-City Id and Name: 986717 Kruisfontein
-City Id and Name: 470473 Vygonichi
-City Id and Name: 2017155 Saskylakh
-City Id and Name: 2542997 Marrakesh
-City Id and Name: 3353934 Otavi
-City Id and Name: 2436400 Ati
-City Id and Name: 3855075 General Pico
-City Id and Name: 3893629 Coquimbo
-City Id and Name: 2112444 Kamaishi
-City Id and Name: 1264976 Leh
-City Id and Name: 1731248 Alugan
-City Id and Name: 4174715 Tallahassee
-City Id and Name: 5972291 Havre-St-Pierre
-City Id and Name: 2242885 Camabatela
-City Id and Name: 5742974 North Bend
-City Id and Name: 3491355 Black River
-City Id and Name: 108410 Riyadh
-City Id and Name: 3414079 Olafsvik
-City Id and Name: 2509606 Villacarrillo
-City Id and Name: 583573 Russkiy Aktash
-City Id and Name: 3355672 Lüderitz
-City Id and Name: 2322794 Suleja
-City Id and Name: 3412093 Vestmannaeyjar
-City Id and Name: 4156404 Gainesville
-City Id and Name: 1529484 Kumul
-City Id and Name: 3451138 Rio Grande
-City Id and Name: 924102 Rumphi
-City Id and Name: 5710360 Winnemucca
-City Id and Name: 3418910 Upernavik
-City Id and Name: 5391959 San Francisco
-City Id and Name: 3395981 Maceió
-City Id and Name: 260895 Karpathos
-City Id and Name: 2090021 Namatanai
-City Id and Name: 3374083 Bathsheba
-City Id and Name: 5962442 Goderich
-City Id and Name: 490743 Sol'vychegodsk
-City Id and Name: 2191911 Dargaville
-City Id and Name: 294117 Nahariya
-City Id and Name: 3443061 Chui
-City Id and Name: 3899695 Ancud
-City Id and Name: 2013465 Verkhoyansk
-City Id and Name: 236950 Obo
-City Id and Name: 1283334 Birin
-City Id and Name: 1486321 Yar-Sale
-City Id and Name: 6185377 Yellowknife
-City Id and Name: 5847411 Kahului
-City Id and Name: 2021017 Kysyl-Syr
-City Id and Name: 1631637 Pemangkat
-City Id and Name: 885800 Mount Darwin
-City Id and Name: 2184707 Wanaka
-City Id and Name: 3428068 San Vicente
-City Id and Name: 3690733 Yauya
-City Id and Name: 6355222 Yulara
-City Id and Name: 1024696 Dondo
-City Id and Name: 1810637 Ganzhou
-City Id and Name: 368246 Raja
-City Id and Name: 1259385 Port Blair
-City Id and Name: 2164206 Gunnedah
-City Id and Name: 3372472 Vila Franca do Campo
-City Id and Name: 6148373 Sioux Lookout
-City Id and Name: 1586443 Ca Mau
-City Id and Name: 172515 Abu Samrah
-City Id and Name: 151262 Nyakahanga
-City Id and Name: 3696183 Iquitos
-City Id and Name: 2180815 Tuatapere
-City Id and Name: 2656708 Ayr
-City Id and Name: 290030 Doha
-City Id and Name: 1214488 Meulaboh
-City Id and Name: 4589446 North Myrtle Beach
-City Id and Name: 3929611 San Jerónimo
-City Id and Name: 1608528 Nakhon Ratchasima
-City Id and Name: 3932145 Pisco
-City Id and Name: 2168305 Dubbo
-City Id and Name: 3454606 Arraias
-City Id and Name: 1150532 Sukhothai
-City Id and Name: 5969025 Haines Junction
-City Id and Name: 1040938 Manjacaze
-City Id and Name: 1267390 Kavaratti
-City Id and Name: 2012593 Zeya
-City Id and Name: 3489440 Morant Bay
-City Id and Name: 3649408 Altagracia de Orituco
-City Id and Name: 2146219 Hervey Bay
-City Id and Name: 352733 Marsá Maţrūḩ
-City Id and Name: 2152659 Port Macquarie
-City Id and Name: 5418104 Cortez
-City Id and Name: 7671223 Kloulklubed
-City Id and Name: 2174444 Bowen
-City Id and Name: 2123814 Leningradskiy
-City Id and Name: 3491161 Bull Savanna
-City Id and Name: 2172153 Casino
-City Id and Name: 608270 Shubarshi
-City Id and Name: 1854774 Ōdachō-ōda
-City Id and Name: 2158767 Mareeba
-City Id and Name: 5861897 Fairbanks
-City Id and Name: 683034 Calafat
-City Id and Name: 1488167 Ust'-Koksa
-City Id and Name: 1848976 Wajima
-City Id and Name: 749795 Çan
-City Id and Name: 3598787 Champerico
-City Id and Name: 1701054 Marawi
-City Id and Name: 1731749 Alabat
-City Id and Name: 1035025 Nacala
-City Id and Name: 920233 Chibombo
-City Id and Name: 2063042 Port Hedland
-City Id and Name: 2338660 Yaan
-City Id and Name: 2126199 Cherskiy
-City Id and Name: 1606323 Si Bun Rueang
-City Id and Name: 2640377 Penzance
-City Id and Name: 2038154 Changping
-City Id and Name: 2132606 Samarai
-City Id and Name: 2077895 Alice Springs
-City Id and Name: 2427336 Moussoro
-City Id and Name: 1809498 Guilin
-City Id and Name: 3373329 Arrifes
-City Id and Name: 894701 Bulawayo
-City Id and Name: 2037078 Hailar
-City Id and Name: 2360541 Gayéri
-City Id and Name: 5364271 Laguna
-City Id and Name: 3500957 La Romana
-City Id and Name: 1140025 Herat Province
-City Id and Name: 5011428 Sturgis
-City Id and Name: 2738381 Lata
-City Id and Name: 2065594 Mount Isa
-City Id and Name: 3576994 Cockburn Town
-City Id and Name: 2125693 Evensk
-City Id and Name: 5640350 Billings Metropolitan Area
-City Id and Name: 6295855 Beauceville
-City Id and Name: 1789289 Dayong
-City Id and Name: 6113406 Prince Rupert
-City Id and Name: 3460148 Januária
-City Id and Name: 2396853 Omboué
-City Id and Name: 5859699 College
-City Id and Name: 2108502 Honiara
-City Id and Name: 1213855 Sibolga
-City Id and Name: 2123979 Kuril'sk
-City Id and Name: 3445026 Vila Velha
-City Id and Name: 2614172 Sæby
-City Id and Name: 103630 Najrān
-City Id and Name: 2015608 Tambovka
-City Id and Name: 6111696 Port-Cartier
-City Id and Name: 1649593 Baturaja
-City Id and Name: 2980080 Saint-François
-City Id and Name: 6180961 White Rock
-City Id and Name: 4844309 Torrington
-City Id and Name: 6167817 Torbay
-City Id and Name: 1849831 Toyooka
-City Id and Name: 1786657 Yinchuan
-City Id and Name: 3421765 Nanortalik
-City Id and Name: 1855540 Naze
-City Id and Name: 3136690 Stokmarknes
-City Id and Name: 337771 Fichē
-City Id and Name: 2027296 Aykhal
-City Id and Name: 1500399 Lokosovo
-City Id and Name: 1276917 Barkot
-City Id and Name: 7696232 Qixingtai
-City Id and Name: 1906691 Sa Kaeo
-City Id and Name: 3361934 Saldanha
-City Id and Name: 1337616 Naifaru
-City Id and Name: 1278827 Ambikāpur
-City Id and Name: 1649150 Bengkulu
-City Id and Name: 3618929 Jinotega
-City Id and Name: 5554428 Ketchikan
-City Id and Name: 3449176 São Francisco
-City Id and Name: 538505 Kurush
-City Id and Name: 5849297 Kīhei
-City Id and Name: 3386213 Touros
-City Id and Name: 4362001 Mayo
-City Id and Name: 2015913 Suntar
-City Id and Name: 1512342 Almazar
-City Id and Name: 2121025 Srednekolymsk
-City Id and Name: 3457708 Maricá
-City Id and Name: 2214846 Misratah
-City Id and Name: 4231997 Avera
-City Id and Name: 1861416 Ishigaki
-City Id and Name: 3598513 Chinique
-City Id and Name: 2171099 Codrington
-City Id and Name: 111453 Zanjān
-City Id and Name: 4132093 Springdale
-City Id and Name: 566157 Divnomorskoye
-City Id and Name: 1252908 Wāshīm
-City Id and Name: 2121052 Sovetskaya Gavan'
-City Id and Name: 2236053 Abong Mbang
-City Id and Name: 1129516 Qarqīn
-City Id and Name: 519027 Novobelokatay
-City Id and Name: 1515029 Ulaangom
-City Id and Name: 1797535 Qiongshan
-City Id and Name: 2015179 Tommot
-City Id and Name: 3692073 Santiago de Cao
-City Id and Name: 3466980 Caravelas
-City Id and Name: 1855612 Nara
-City Id and Name: 1651531 Ambon City
-City Id and Name: 2112309 Katsuura
-City Id and Name: 2396518 Port-Gentil
-City Id and Name: 778707 Mehamn
-City Id and Name: 504187 Puksoozero
-City Id and Name: 301101 Serik
-City Id and Name: 1513990 Gazli
-City Id and Name: 2561668 Santa Cruz
-City Id and Name: 2318921 Wukari
-City Id and Name: 1650232 Banjar
-City Id and Name: 1054329 Vangaindrano
-City Id and Name: 946257 Ulundi
-City Id and Name: 3141667 Roald
-City Id and Name: 3407762 Amapá
-City Id and Name: 1635815 Maumere
-City Id and Name: 3157679 Fevik
-City Id and Name: 1651810 Airai
-City Id and Name: 2016910 Severobaykal'sk
-City Id and Name: 1714733 Dingle
-City Id and Name: 3994469 Ojinaga
-City Id and Name: 2448083 Agadez
-City Id and Name: 1506268 Gornopravdinsk
-City Id and Name: 2487130 Sidi Ali
-City Id and Name: 2172797 Cairns
-City Id and Name: 5856516 ‘Āhuimanu
-City Id and Name: 5367788 Lompoc
-City Id and Name: 5546220 Saint George
-City Id and Name: 72181 Marzuq
-City Id and Name: 212730 Kisangani
-City Id and Name: 3471422 Arroio Grande
-City Id and Name: 1791779 Wanning
-City Id and Name: 2610343 Vestmanna
-City Id and Name: 2180737 Turangi
-City Id and Name: 3446098 Três Lagoas
-City Id and Name: 2127202 Anadyr
-City Id and Name: 3871336 Santiago
-City Id and Name: 2159220 Mackay
-City Id and Name: 2524881 Crotone
-City Id and Name: 2685750 Östersund
-City Id and Name: 3461425 Ilhabela
-City Id and Name: 777682 Skjervøy
-City Id and Name: 2214432 Nālūt
-City Id and Name: 2018735 Nyurba
-City Id and Name: 6945986 La Malbaie
-City Id and Name: 582447 Almaznyy
-City Id and Name: 2176639 Batemans Bay
-City Id and Name: 4001056 La Orilla
-City Id and Name: 3936456 Lima
-City Id and Name: 3836873 San Miguel de Tucumán
-City Id and Name: 2128975 Nemuro
-City Id and Name: 5882953 Aklavik
-City Id and Name: 705442 Kulevcha
-City Id and Name: 2293260 Agnibilékrou
-City Id and Name: 2278158 Buchanan
-City Id and Name: 3694112 Paita
-City Id and Name: 3064145 Toužim
-City Id and Name: 142255 Bāfq
-City Id and Name: 3407407 Aquiraz
-City Id and Name: 3036016 Aurillac
-City Id and Name: 343292 Āsosa
-City Id and Name: 3374333 Praia
-City Id and Name: 568077 Chirkey
-City Id and Name: 2160735 Lakes Entrance
-City Id and Name: 5697939 North Platte
-City Id and Name: 5920288 Charlottetown
-City Id and Name: 3842881 Nueve de Julio
-City Id and Name: 5275191 Superior
-City Id and Name: 1608462 Nam Som
-City Id and Name: 5528182 Pecos
-City Id and Name: 2122783 Katangli
-City Id and Name: 6149996 Smithers
-City Id and Name: 6137462 Saint-Augustin
-City Id and Name: 3105522 Bereda
-City Id and Name: 3393922 Nísia Floresta
-City Id and Name: 607610 Zhangaözen
-City Id and Name: 470905 Vuktyl
-City Id and Name: 2409914 Bonthe
-City Id and Name: 1159384 Tāybād
-City Id and Name: 2457161 Gao
-City Id and Name: 2212775 Sabha
-City Id and Name: 884927 Mutoko
-City Id and Name: 2017979 Petropavlovka
-City Id and Name: 6316343 Alta Floresta
-City Id and Name: 5354943 Half Moon Bay
-City Id and Name: 2120048 Ust-Nera
-City Id and Name: 3393452 Ouricuri
-City Id and Name: 2012530 Zhigansk
-City Id and Name: 1624041 Ternate
-City Id and Name: 3792382 Cartagena del Chairá
-City Id and Name: 934479 Grand Gaube
-City Id and Name: 1271940 Farrukhnagar
-City Id and Name: 2331447 Maiduguri
-City Id and Name: 174726 Saravan
-City Id and Name: 1523662 Kachīry
-City Id and Name: 3707921 La Colorada
-City Id and Name: 1686318 Sinait
-City Id and Name: 5850554 Makakilo City
-City Id and Name: 2347209 Bida
-City Id and Name: 1856392 Muroto-misakicho
-City Id and Name: 3144987 Beisfjord
-City Id and Name: 2171069 Colac
-City Id and Name: 3357114 Grootfontein
-City Id and Name: 2139521 Noumea
-City Id and Name: 3665202 Aripuanã
-City Id and Name: 5866583 Saint Paul Harbor
-City Id and Name: 3354898 Okahandja
-City Id and Name: 2162662 Inverell
-City Id and Name: 3457991 Mangaratiba
-City Id and Name: 5866063 Kenai
-City Id and Name: 2644210 Liverpool
-City Id and Name: 1053384 Toamasina
-City Id and Name: 3126369 Carballo
-City Id and Name: 4033356 Tiarei
-City Id and Name: 64814 Bandarbeyla
-City Id and Name: 2092164 Lorengau
-City Id and Name: 2191562 Dunedin
-City Id and Name: 637292 Savonlinna
-City Id and Name: 2617619 Lind
-City Id and Name: 5919850 Chapais
-City Id and Name: 3175096 Laas
-City Id and Name: 530196 Malye Derbety
-City Id and Name: 4165913 New Smyrna Beach
-City Id and Name: 3460225 Jaguarari
-City Id and Name: 1849892 Tottori-shi
-City Id and Name: 3394023 Natal
-City Id and Name: 3408221 Água Branca
-City Id and Name: 3356832 Henties Bay
-City Id and Name: 3628503 San Carlos
-City Id and Name: 779683 Hammerfest
-City Id and Name: 2026643 Birobidzhan
-City Id and Name: 3420768 Qasigiannguit
-City Id and Name: 239899 Bria
-City Id and Name: 6014443 Lac du Bonnet
-City Id and Name: 518619 Novaya Malykla
-City Id and Name: 2349558 Apomu
-City Id and Name: 1861280 Itoman
-City Id and Name: 3939761 Hualmay
-City Id and Name: 3841490 Pergamino
-City Id and Name: 1644605 Galesong
-City Id and Name: 2063056 Port Augusta
-City Id and Name: 684496 Bocicoiu Mare
-City Id and Name: 6943820 Murdochville
-City Id and Name: 2274895 Monrovia
-City Id and Name: 6166142 Thunder Bay
-City Id and Name: 3662761 Porto Walter
-City Id and Name: 3625710 Upata
-City Id and Name: 3698304 Chimbote
-City Id and Name: 703325 Lazi
-City Id and Name: 995573 Hoopstad
-City Id and Name: 1024552 Xai-Xai
-City Id and Name: 3139597 Sistranda
-City Id and Name: 1710519 Isabela
-City Id and Name: 2120591 Tilichiki
-City Id and Name: 6050066 La Ronge
-City Id and Name: 2309528 Luba
-City Id and Name: 3608828 Iralaya
-City Id and Name: 2281120 Tabou
-City Id and Name: 1519924 Kushmurun
-City Id and Name: 1797318 Qujing
-City Id and Name: 2156643 Mount Gambier
-City Id and Name: 2123614 Makarov
-City Id and Name: 2367990 Aného
-City Id and Name: 1799869 Nanning
-City Id and Name: 1279074 Ālampur
-City Id and Name: 2172880 Byron Bay
-City Id and Name: 2013279 Vostok
-City Id and Name: 2449893 Tessalit
-City Id and Name: 3088848 Pleszew
-City Id and Name: 863061 Usinsk
-City Id and Name: 3372760 Praia da Vitória
-City Id and Name: 718108 Levelek
-City Id and Name: 3870243 Taltal
-City Id and Name: 110690 Faya
-City Id and Name: 2512186 Puerto del Rosario
-City Id and Name: 2021031 Kyren
-City Id and Name: 6945979 Lillooet
-City Id and Name: 1175712 Jiwani
-City Id and Name: 3359736 Vredendal
-City Id and Name: 1644932 Ende
-City Id and Name: 3101680 Chodzież
-City Id and Name: 2181625 Te Anau
-City Id and Name: 1504382 Kargasok
-City Id and Name: 3468352 Caçu
-City Id and Name: 4574324 Charleston
-City Id and Name: 681747 Ciocăneşti
-City Id and Name: 2781992 Bärnbach
-City Id and Name: 2381334 Atar
-City Id and Name: 2128574 Otaru
-City Id and Name: 1518768 Stepnyak
-City Id and Name: 2439812 Say
-City Id and Name: 4891382 Evanston
-City Id and Name: 240210 Birao
-City Id and Name: 691469 Tokmak
-City Id and Name: 1242110 Kalmunai
-City Id and Name: 1788046 Xuchang
-City Id and Name: 1732871 Singkang
-City Id and Name: 3131824 Vigrestad
-City Id and Name: 1292037 Thayetmyo
-City Id and Name: 1785036 Zhangye
-City Id and Name: 3897774 Buin
-City Id and Name: 1640902 Kawalu
-City Id and Name: 2537881 Safi
-City Id and Name: 2412408 Nioro
-City Id and Name: 125897 Lahijan
-City Id and Name: 6141439 Sault Ste. Marie
-City Id and Name: 2181133 Pareora
-City Id and Name: 200575 Baringo
-City Id and Name: 1847947 Shingū
-City Id and Name: 2062276 Roebourne
-City Id and Name: 1636308 Manokwari
-City Id and Name: 5478673 Meadow Lake
-City Id and Name: 3455168 Paracatu
-City Id and Name: 2221530 Tibati
-City Id and Name: 5372259 Merced
-City Id and Name: 2294915 Takoradze
-City Id and Name: 102527 Sakakah
-City Id and Name: 326036 Yabēlo
-City Id and Name: 1519275 Shar
-City Id and Name: 2458334 Douentza
-City Id and Name: 1502257 Kozhevnikovo
-City Id and Name: 3461888 Guarapari
-City Id and Name: 1513491 Yangi Marg`ilon
-City Id and Name: 3448903 São João da Barra
-City Id and Name: 4850751 Cedar Rapids
-City Id and Name: 189741 Lamu
-City Id and Name: 1505991 Igarka
-City Id and Name: 5815136 Washougal
-City Id and Name: 3403251 Canto do Buriti
-City Id and Name: 4032420 Neiafu
-City Id and Name: 3451856 Rancharia
-City Id and Name: 3422683 Kangaatsiaq
-City Id and Name: 2026786 Berezovyy
-City Id and Name: 3388456 São José da Coroa Grande
-City Id and Name: 2255542 Owando
-City Id and Name: 1735227 Kuantan
-City Id and Name: 88319 Benghazi
-City Id and Name: 3129839 Aras
-City Id and Name: 3573899 Point Fortin
-City Id and Name: 5392126 San Joaquin
-City Id and Name: 3653523 Palora
-City Id and Name: 4791259 Virginia Beach
-City Id and Name: 777019 Vardø
-City Id and Name: 3381041 Mana
-City Id and Name: 3156980 Florø
-City Id and Name: 3141310 Rørvik
-City Id and Name: 5954718 Flin Flon
-City Id and Name: 2030065 Mandalgovi
-City Id and Name: 3571913 Marsh Harbour
-City Id and Name: 1142226 Dawlatabad
-City Id and Name: 1517323 Zhanakorgan
-City Id and Name: 3148129 Larvik
-City Id and Name: 3674676 Mitú
-City Id and Name: 2026861 Berdigestyakh
-City Id and Name: 3645528 Ciudad Guayana
-City Id and Name: 3421193 Paamiut
-City Id and Name: 4031742 Egvekinot
-City Id and Name: 1071296 Antalaha
-City Id and Name: 115781 Shahr-e Bābak
-City Id and Name: 924206 Phalombe
-City Id and Name: 1259425 Puducherry
-City Id and Name: 4794814 Wyndham
-City Id and Name: 314188 Göksun
-City Id and Name: 935214 Saint-Pierre
-City Id and Name: 2017215 Sangar
-City Id and Name: 2119283 Zyryanka
-City Id and Name: 3395042 Mazagão
-City Id and Name: 6078372 Moose Factory
-City Id and Name: 2088122 Port Moresby
-City Id and Name: 1082243 Ambilobe
-City Id and Name: 3614835 Barra Patuca
-City Id and Name: 1160571 Khāsh
-City Id and Name: 53372 Oodweyne
-City Id and Name: 1267635 Karwar
-City Id and Name: 511291 Perevolotskiy
-City Id and Name: 2565056 Punta Umbría
-City Id and Name: 3159143 Dokka
-City Id and Name: 472328 Volot
-City Id and Name: 750268 Bursa
-City Id and Name: 5363208 King City
-City Id and Name: 3357247 Gobabis
-City Id and Name: 1178841 Garh Maharaja
-City Id and Name: 6944110 Les Escoumins
-City Id and Name: 4980927 Topsham
-City Id and Name: 4469160 Greenville
-City Id and Name: 296852 Erzin
-City Id and Name: 3877918 Ovalle
-City Id and Name: 6137696 Sainte-Adèle
-City Id and Name: 5864145 Homer
-City Id and Name: 1817240 Baiyin
-City Id and Name: 878141 Madimba
-City Id and Name: 2214827 Mizdah
-City Id and Name: 2013727 Vanavara
-City Id and Name: 1513957 Hazorasp
-City Id and Name: 1283285 Jumla
-City Id and Name: 1519938 Karatau
-City Id and Name: 1528998 Yumen
-City Id and Name: 2392087 Porto-Novo
-City Id and Name: 2129324 Makubetsu
-City Id and Name: 3131684 Vikersund
-City Id and Name: 4013724 Camargo
-City Id and Name: 2160053 Lithgow
-City Id and Name: 1508458 Chany
-City Id and Name: 1816751 Beidao
-City Id and Name: 2027806 Amazar
-City Id and Name: 1806687 Yong’an
-City Id and Name: 709643 Drabiv
-City Id and Name: 1501000 Kyshtovka
-City Id and Name: 2990473 Arrondissement de Nevers
-City Id and Name: 5004005 Norton Shores
-City Id and Name: 4527624 Warren
-City Id and Name: 2280743 Tiébissou
-City Id and Name: 4171522 St. Pete Beach
-City Id and Name: 1687894 Santa Rosa
-City Id and Name: 909887 Luangwa
-City Id and Name: 2013918 Ust-Maya
-City Id and Name: 2036338 Kaitong
 City Id and Name: 293842 Kiryat Gat
-City Id and Name: 86049 Jalu
-City Id and Name: 53654 Mogadishu
-City Id and Name: 3662342 São Gabriel da Cachoeira
-City Id and Name: 1235846 Matara
-City Id and Name: 3391889 Pitimbu
-City Id and Name: 1793036 Tengzhou
-City Id and Name: 1635164 Mlonggo
-City Id and Name: 4946620 Palmer
-City Id and Name: 3666640 Tumaco
-City Id and Name: 5582371 Steamboat Springs
-City Id and Name: 3520994 Puerto Escondido
-City Id and Name: 6690297 Saint-Leu
-City Id and Name: 5308049 Paradise Valley
-City Id and Name: 576093 Blagoyevo
-City Id and Name: 2019867 Mokhsogollokh
-City Id and Name: 2455735 Kangaba
-City Id and Name: 2013375 Vitim
-City Id and Name: 1090467 Boueni
-City Id and Name: 1262067 Nalgonda
-City Id and Name: 2155562 Nelson Bay
-City Id and Name: 6113335 Prince Albert
-City Id and Name: 1048364 Chokwé
-City Id and Name: 1224061 Wattegama
-City Id and Name: 4026082 Lázaro Cárdenas
-City Id and Name: 3464008 Esmeraldas
-City Id and Name: 4930956 Boston
-City Id and Name: 1337613 Kulhudhuffushi
-City Id and Name: 653272 Kemijärvi
-City Id and Name: 6171633 Ucluelet
-City Id and Name: 2126682 Bilibino
-City Id and Name: 3456277 Nobres
-City Id and Name: 1788852 Xining
-City Id and Name: 6119109 Regina
-City Id and Name: 3035883 Autun
-City Id and Name: 1270770 Viramgam
-City Id and Name: 124085 Mīāndoāb
-City Id and Name: 2185537 Kawhia
-City Id and Name: 6620339 Karratha
-City Id and Name: 3841956 Paraná
-City Id and Name: 2996268 Manche
-City Id and Name: 3138076 Snåase
-City Id and Name: 1253628 Ginda
-City Id and Name: 2015701 Taksimo
-City Id and Name: 3667323 Tello
-City Id and Name: 211647 Lodja
-City Id and Name: 1516048 Khovd
-City Id and Name: 337083 Gēdo
-City Id and Name: 3628473 San Cristobal
-City Id and Name: 3982292 Tayoltita
-City Id and Name: 3899361 Arica
-City Id and Name: 2596934 Séguéla
-City Id and Name: 2123278 Mil'kovo
-City Id and Name: 3521972 Panabá
-City Id and Name: 4173838 Spring Hill
-City Id and Name: 2335713 Kafanchan
-City Id and Name: 648090 Lieksa
-City Id and Name: 4845585 Westport
-City Id and Name: 1650434 Bambanglipuro
-City Id and Name: 2409751 Koindu
-City Id and Name: 556268 Ostrovnoy
-City Id and Name: 713749 Okhtyrka
-City Id and Name: 2342490 Funtua
-City Id and Name: 3531368 Celestún
-City Id and Name: 5924963 Colborne
-City Id and Name: 4004293 Ixtapa
-City Id and Name: 292968 Abu Dhabi
-City Id and Name: 2725123 Arvika
+City Id and Name: 2805762 Wunsiedel
+City Id and Name: 2112656 Ichinoseki
+City Id and Name: 515805 Oktyabr'skoye
+City Id and Name: 2112802 Hasaki
+City Id and Name: 2070998 Geraldton
+City Id and Name: 3424607 Tasiilaq
+City Id and Name: 964432 Port Alfred
+City Id and Name: 4030556 Rikitea
+City Id and Name: 3443061 Chui
+City Id and Name: 4035715 Avarua
+City Id and Name: 5880054 Barrow
+City Id and Name: 6089245 Norman Wells
+City Id and Name: 3013534 Hendaye
+City Id and Name: 964420 Port Elizabeth
+City Id and Name: 2264557 Ponta do Sol
+City Id and Name: 553766 Kamenka
+City Id and Name: 2134814 Sola
+City Id and Name: 2220853 Yokadouma
+City Id and Name: 2022572 Khatanga
+City Id and Name: 1819729 Hong Kong
+City Id and Name: 5855927 Hilo
+City Id and Name: 4020109 Atuona
+City Id and Name: 5807239 Port Townsend
 City Id and Name: 2447513 Arlit
-City Id and Name: 2028164 Deputatsky
-City Id and Name: 4683416 Corpus Christi
-City Id and Name: 2234794 Banyo
-City Id and Name: 2108857 Gizo Government Station
-City Id and Name: 3351380 Caconda
-City Id and Name: 1492252 Sheregesh
-City Id and Name: 2264923 Peniche
-City Id and Name: 3390160 Russas
-City Id and Name: 3460355 Jaciara
-City Id and Name: 3517970 Pochutla
-City Id and Name: 337405 Gambēla
-City Id and Name: 2036734 Huangnihe
+City Id and Name: 2065594 Mount Isa
+City Id and Name: 2208248 Kaitangata
+City Id and Name: 1006984 East London
+City Id and Name: 2094342 Kavieng
+City Id and Name: 1632998 Pamanukan
+City Id and Name: 5830062 Laramie
+City Id and Name: 2488835 Médéa
+City Id and Name: 3423146 Ilulissat
+City Id and Name: 3115824 Muros
+City Id and Name: 3652764 Puerto Ayora
+City Id and Name: 3837056 San Luis
+City Id and Name: 1812988 Dengzhou
+City Id and Name: 5915327 Cap-aux-Meules
+City Id and Name: 2396853 Omboué
+City Id and Name: 546105 Nikolskoye
+City Id and Name: 2206894 Hokitika
+City Id and Name: 1214488 Meulaboh
+City Id and Name: 2173323 Bundaberg
+City Id and Name: 2180815 Tuatapere
+City Id and Name: 2191562 Dunedin
+City Id and Name: 2255564 Ouésso
+City Id and Name: 986717 Kruisfontein
+City Id and Name: 3430863 Mar del Plata
+City Id and Name: 2966356 Bantry
+City Id and Name: 2181625 Te Anau
+City Id and Name: 1529102 Ürümqi
+City Id and Name: 2126710 Beringovskiy
+City Id and Name: 3461425 Ilhabela
+City Id and Name: 1529484 Kumul
+City Id and Name: 2144528 Warrnambool
+City Id and Name: 2074865 Carnarvon
+City Id and Name: 1490256 Talnakh
+City Id and Name: 161943 Gumdag
+City Id and Name: 6167817 Torbay
+City Id and Name: 286245 Sur
+City Id and Name: 5546220 Saint George
+City Id and Name: 4132093 Springdale
+City Id and Name: 3372472 Vila Franca do Campo
+City Id and Name: 2290836 Boundiali
+City Id and Name: 5392593 San Ramon
+City Id and Name: 245338 Am Timan
+City Id and Name: 2400547 Gamba
+City Id and Name: 2108502 Honiara
+City Id and Name: 1282256 Hithadhoo
+City Id and Name: 2019935 Mnogovershinnyy
+City Id and Name: 3883457 Lebu
+City Id and Name: 3445026 Vila Velha
+City Id and Name: 2119283 Zyryanka
+City Id and Name: 3372707 Ribeira Grande
+City Id and Name: 780687 Berlevåg
+City Id and Name: 935215 Saint-Philippe
+City Id and Name: 5106841 Albany
+City Id and Name: 2729907 Longyearbyen
+City Id and Name: 2084442 Vanimo
+City Id and Name: 5012495 Traverse City
+City Id and Name: 2137773 Vao
+City Id and Name: 1269750 India
+City Id and Name: 3386198 Traipu
+City Id and Name: 102527 Sakakah
+City Id and Name: 2020838 Lensk
+City Id and Name: 6620339 Karratha
+City Id and Name: 307864 Kilis
+City Id and Name: 286621 Salalah
+City Id and Name: 3395981 Maceió
+City Id and Name: 2159220 Mackay
+City Id and Name: 3355672 Lüderitz
+City Id and Name: 2015306 Tiksi
+City Id and Name: 3421765 Nanortalik
+City Id and Name: 5969025 Haines Junction
+City Id and Name: 1492466 Shalinskoye
+City Id and Name: 1787437 Yangliuqing
+City Id and Name: 3471451 Arraial do Cabo
+City Id and Name: 1526273 Nur-Sultan
+City Id and Name: 1519275 Shar
+City Id and Name: 3516458 Tabasco
+City Id and Name: 5122534 Jamestown
+City Id and Name: 3988265 Sahuaripa
+City Id and Name: 2126123 Chokurdakh
+City Id and Name: 5972291 Havre-St-Pierre
+City Id and Name: 3347762 Lubango
+City Id and Name: 5983720 Iqaluit
+City Id and Name: 2171099 Codrington
+City Id and Name: 3466704 Castro
+City Id and Name: 2155415 New Norfolk
+City Id and Name: 3386213 Touros
+City Id and Name: 1526384 Almaty
+City Id and Name: 6165406 Thompson
+City Id and Name: 1489853 Tazovsky
+City Id and Name: 2399959 Koulamoutou
+City Id and Name: 2120591 Tilichiki
+City Id and Name: 4031637 Lavrentiya
+City Id and Name: 1510689 Baykit
+City Id and Name: 1785036 Zhangye
+City Id and Name: 3979216 Camalú
+City Id and Name: 3418910 Upernavik
+City Id and Name: 3356213 Khorixas
+City Id and Name: 6089404 North Battleford
+City Id and Name: 7117100 Vila
+City Id and Name: 3885456 La Ligua
+City Id and Name: 6170031 Tuktoyaktuk
+City Id and Name: 2062381 Robe
+City Id and Name: 3421719 Narsaq
+City Id and Name: 1640972 Katobu
+City Id and Name: 2012956 Yerbogachën
+City Id and Name: 5870133 Nome
+City Id and Name: 3161733 Bergen
+City Id and Name: 2012530 Zhigansk
+City Id and Name: 3382160 Cayenne
+City Id and Name: 3985710 Cabo San Lucas
+City Id and Name: 3899695 Ancud
+City Id and Name: 4207783 Marietta
+City Id and Name: 2163355 Hobart
+City Id and Name: 2126199 Cherskiy
+City Id and Name: 3166052 Subiaco
+City Id and Name: 2338660 Yaan
+City Id and Name: 3471840 Aragarças
+City Id and Name: 5882953 Aklavik
+City Id and Name: 300791 Simav
+City Id and Name: 3380290 Sinnamary
+City Id and Name: 2178753 Kirakira
+City Id and Name: 1135689 Kunduz
+City Id and Name: 3356832 Henties Bay
+City Id and Name: 1153035 Kathu
+City Id and Name: 1485354 Zavodouspenskoye
+City Id and Name: 1802068 Lujiang
+City Id and Name: 5866583 Saint Paul Harbor
+City Id and Name: 1624041 Ternate
+City Id and Name: 1259385 Port Blair
+City Id and Name: 1524801 Shīeli
+City Id and Name: 2194098 Ahipara
+City Id and Name: 3419842 Sisimiut
+City Id and Name: 2630299 Hofn
+City Id and Name: 3860443 Comodoro Rivadavia
+City Id and Name: 2017155 Saskylakh
+City Id and Name: 3570392 Le Vauclin
+City Id and Name: 934479 Grand Gaube
+City Id and Name: 5856516 ‘Āhuimanu
+City Id and Name: 1790840 Wuzhou
+City Id and Name: 3654410 Manta
+City Id and Name: 2092164 Lorengau
+City Id and Name: 2155542 Nerang
+City Id and Name: 1223738 Weligama
+City Id and Name: 2025456 Chernyshevskiy
+City Id and Name: 2122090 Pevek
+City Id and Name: 3430443 Necochea
+City Id and Name: 1218420 Seydi
+City Id and Name: 3416888 Grindavik
+City Id and Name: 2171722 Charters Towers
+City Id and Name: 1486321 Yar-Sale
+City Id and Name: 1855342 Nishihara
+City Id and Name: 6138517 Saint John
+City Id and Name: 352733 Marsá Maţrūḩ
+City Id and Name: 1507390 Dikson
+City Id and Name: 1056899 Sambava
+City Id and Name: 5557293 Sitka
+City Id and Name: 3939761 Hualmay
+City Id and Name: 1714733 Dingle
+City Id and Name: 5859699 College
+City Id and Name: 3006387 Semme
+City Id and Name: 2063056 Port Augusta
+City Id and Name: 2037078 Hailar
+City Id and Name: 3598787 Champerico
+City Id and Name: 2129376 Kushiro
+City Id and Name: 5563839 Fortuna
+City Id and Name: 2381972 Adrar
+City Id and Name: 2071860 Esperance
+City Id and Name: 1649150 Bengkulu
+City Id and Name: 2177069 Ballina
+City Id and Name: 3081368 Wrocław
 City Id and Name: 2270385 Camacha
-City Id and Name: 4513583 Hamilton
-City Id and Name: 2313002 Matadi
-City Id and Name: 4920869 Granger
-City Id and Name: 503682 Putyatino
-City Id and Name: 5826027 Gillette
-City Id and Name: 3666475 Unguía
-City Id and Name: 323828 Anamur
-City Id and Name: 3398856 Grajaú
-City Id and Name: 3372783 Ponta Delgada
+City Id and Name: 964090 Prieska
+City Id and Name: 1631637 Pemangkat
+City Id and Name: 934322 Mahébourg
+City Id and Name: 2449893 Tessalit
+City Id and Name: 1106643 Quatre Cocos
+City Id and Name: 1698289 Pundaguitan
+City Id and Name: 4231997 Avera
+City Id and Name: 3904906 Santa Cruz de la Sierra
+City Id and Name: 2374583 Bubaque
+City Id and Name: 1265591 Kunigal
+City Id and Name: 3440777 Rocha
+City Id and Name: 5052916 Willmar
+City Id and Name: 6324729 Halifax
+City Id and Name: 515012 Oryol
+City Id and Name: 3137469 Sørland
+City Id and Name: 3618522 Laguna de Perlas
+City Id and Name: 2435837 Béboto
+City Id and Name: 590447 Karla
+City Id and Name: 5488598 Ruidoso
+City Id and Name: 933995 Souillac
+City Id and Name: 174726 Saravan
+City Id and Name: 1856392 Muroto-misakicho
+City Id and Name: 3384937 Miracema do Tocantins
+City Id and Name: 4844309 Torrington
+City Id and Name: 2412408 Nioro
+City Id and Name: 3191845 Ravne
+City Id and Name: 2025241 Churapcha
+City Id and Name: 2268252 Ferreira do Alentejo
+City Id and Name: 368246 Raja
+City Id and Name: 1524606 Derzhavīnsk
+City Id and Name: 2688250 Norrtälje
+City Id and Name: 4465088 Elizabeth City
+City Id and Name: 4754972 Culpeper
+City Id and Name: 1082243 Ambilobe
+City Id and Name: 1524889 Chardara
+City Id and Name: 2077895 Alice Springs
+City Id and Name: 2013921 Ust-Kuyga
+City Id and Name: 5110365 Broome
+City Id and Name: 2013465 Verkhoyansk
+City Id and Name: 1852225 Shimonoseki
+City Id and Name: 2101169 Aitape
+City Id and Name: 1735106 George Town
+City Id and Name: 2255304 Sémbé
+City Id and Name: 2460954 Araouane
+City Id and Name: 1706466 Ligayan
+City Id and Name: 3414079 Olafsvik
 City Id and Name: 523392 Naryan-Mar
-City Id and Name: 223816 Djibouti
-City Id and Name: 5145695 Amherst
-City Id and Name: 6176823 Waterloo
+City Id and Name: 3374210 São Filipe
+City Id and Name: 2145554 Ulladulla
+City Id and Name: 1806466 Guangyuan
+City Id and Name: 2643044 Margate
+City Id and Name: 5924351 Clyde River
+City Id and Name: 64814 Bandarbeyla
+City Id and Name: 1513990 Gazli
+City Id and Name: 2126682 Bilibino
+City Id and Name: 6255012 Flinders
+City Id and Name: 5847411 Kahului
+City Id and Name: 3894426 Coyhaique
+City Id and Name: 1511057 Bakchar
+City Id and Name: 4031574 Provideniya
+City Id and Name: 778707 Mehamn
+City Id and Name: 3374333 Praia
+City Id and Name: 884927 Mutoko
+City Id and Name: 3983035 Sinaloa
+City Id and Name: 2460755 Bafoulabé
+City Id and Name: 3879429 Monte Patria
+City Id and Name: 3843123 Neuquén
+City Id and Name: 1529376 Korla
+City Id and Name: 3466165 Cidreira
+City Id and Name: 2409215 Gandorhun
+City Id and Name: 6111862 Port Hardy
+City Id and Name: 1259243 Punalūr
+City Id and Name: 4692856 Galveston
+City Id and Name: 3358666 Aranos
+City Id and Name: 359792 Aswān
+City Id and Name: 1718503 Caramoran
+City Id and Name: 933211 Nokaneng
+City Id and Name: 1090467 Boueni
+City Id and Name: 1632694 Pangkalanbuun
+City Id and Name: 3987500 San Buenaventura
+City Id and Name: 1052944 Angoche
+City Id and Name: 3408386 Acará
+City Id and Name: 3421193 Paamiut
 City Id and Name: 3470137 Belmonte
-City Id and Name: 2036892 Hohhot
-City Id and Name: 136702 Dehlorān
+City Id and Name: 3359638 Walvis Bay
+City Id and Name: 1267390 Kavaratti
+City Id and Name: 3355595 Mariental
+City Id and Name: 525426 Sobolevo
+City Id and Name: 1218612 Murgab
+City Id and Name: 1264976 Leh
+City Id and Name: 2276492 Harper
+City Id and Name: 5536630 Cedar City
+City Id and Name: 3470164 Bela Vista de Goiás
+City Id and Name: 3629576 Punto Fijo
+City Id and Name: 4781708 Richmond
+City Id and Name: 4021858 Guerrero Negro
+City Id and Name: 6690296 Saint-Joseph
+City Id and Name: 3000648 Les Herbiers
+City Id and Name: 3386177 Trairi
+City Id and Name: 3347019 Mossamedes
+City Id and Name: 1039536 Maxixe
+City Id and Name: 5509851 Pahrump
+City Id and Name: 5063646 Beatrice
+City Id and Name: 3608828 Iralaya
+City Id and Name: 1303406 Nyaunglebin
+City Id and Name: 376332 Doka
+City Id and Name: 1736305 Kuala Kedah
+City Id and Name: 3836873 San Miguel de Tucumán
+City Id and Name: 6453316 Tromsø
+City Id and Name: 3533462 Acapulco de Juárez
+City Id and Name: 1507636 Chunskiy
+City Id and Name: 2068655 Katherine
+City Id and Name: 2173911 Broken Hill
+City Id and Name: 3466980 Caravelas
+City Id and Name: 3356264 Keetmanshoop
+City Id and Name: 1307741 Myitkyina
+City Id and Name: 3432043 La Plata
+City Id and Name: 6166142 Thunder Bay
+City Id and Name: 1701054 Marawi
+City Id and Name: 1862415 Kumano
+City Id and Name: 561146 Glubokiy
+City Id and Name: 3397763 Jacareacanga
+City Id and Name: 1817240 Baiyin
+City Id and Name: 2094027 Kieta
+City Id and Name: 3347853 Longonjo
+City Id and Name: 4034188 Moerai
+City Id and Name: 3932145 Pisco
+City Id and Name: 2511930 Requena
+City Id and Name: 5690366 Mandan
+City Id and Name: 4707814 Longview
+City Id and Name: 737021 Zonguldak
+City Id and Name: 3991622 La Providencia
+City Id and Name: 2156643 Mount Gambier
+City Id and Name: 934649 Cap Malheureux
+City Id and Name: 3346015 Sumbe
+City Id and Name: 618426 Chișinău
+City Id and Name: 3653882 Naranjal
+City Id and Name: 3404558 Cabedelo
+City Id and Name: 5423294 Golden
+City Id and Name: 743881 Kastamonu Province
+City Id and Name: 371745 Kutum
+City Id and Name: 5710360 Winnemucca
+City Id and Name: 3377301 Mabaruma
+City Id and Name: 1850499 Tatsunochō-tominaga
+City Id and Name: 3336897 La Rioja
+City Id and Name: 144616 Ahar
+City Id and Name: 3139597 Sistranda
+City Id and Name: 3159894 Brumunddal
+City Id and Name: 1024552 Xai-Xai
+City Id and Name: 3394549 Monteiro
+City Id and Name: 2455290 Kidal
+City Id and Name: 486645 Sukhobezvodnoye
+City Id and Name: 4033557 Tautira
+City Id and Name: 1490796 Strezhevoy
+City Id and Name: 601551 Akdepe
+City Id and Name: 2112309 Katsuura
+City Id and Name: 1489822 Tegul'det
+City Id and Name: 1488903 Turukhansk
+City Id and Name: 2293801 Yendi
+City Id and Name: 2127060 Arman'
+City Id and Name: 3155152 Gravdal
+City Id and Name: 4202810 Jesup
+City Id and Name: 107304 Buraidah
+City Id and Name: 1337619 Ugoofaaru
+City Id and Name: 1862505 Hirara
+City Id and Name: 2130146 Hanawa
+City Id and Name: 3374083 Bathsheba
+City Id and Name: 2501152 Constantine
+City Id and Name: 2033225 Zhalantun
+City Id and Name: 5229794 Mitchell
+City Id and Name: 1803560 Lingao
+City Id and Name: 746565 Görele
+City Id and Name: 2304548 Anloga
+City Id and Name: 537740 Kuznechnoye
+City Id and Name: 167357 Manbij
+City Id and Name: 2120612 Tigil'
+City Id and Name: 4036284 Alofi
+City Id and Name: 2020208 Ulkan
+City Id and Name: 2641434 Northam
+City Id and Name: 4845585 Westport
+City Id and Name: 2120048 Ust-Nera
+City Id and Name: 933178 Pandamatenga
+City Id and Name: 2093846 Kiunga
+City Id and Name: 3405870 Belém
+City Id and Name: 2313084 Mangai
+City Id and Name: 2409914 Bonthe
+City Id and Name: 6171633 Ucluelet
+City Id and Name: 3699980 El Real de Santa Maria
+City Id and Name: 3422683 Kangaatsiaq
+City Id and Name: 3664956 Boca do Acre
+City Id and Name: 4726521 San Patricio
+City Id and Name: 6137462 Saint-Augustin
+City Id and Name: 3373652 Oistins
+City Id and Name: 505824 Povarovo
+City Id and Name: 5051659 Wadena
+City Id and Name: 4513583 Hamilton
+City Id and Name: 932698 Hlotse
+City Id and Name: 4671141 Aransas Pass
+City Id and Name: 470530 Vychegodskiy
+City Id and Name: 1835848 Seoul
+City Id and Name: 3663517 Livramento
+City Id and Name: 295277 Eilat
+City Id and Name: 2524393 Licata
+City Id and Name: 1855540 Naze
+City Id and Name: 2026861 Berdigestyakh
+City Id and Name: 3628473 San Cristobal
+City Id and Name: 1253237 Verāval
+City Id and Name: 1489656 Teya
+City Id and Name: 6149374 Slave Lake
+City Id and Name: 3361934 Saldanha
+City Id and Name: 3420846 Qaqortoq
+City Id and Name: 582447 Almaznyy
+City Id and Name: 878141 Madimba
+City Id and Name: 3893726 Constitución
+City Id and Name: 2122614 Okha
+City Id and Name: 1254046 Tura
+City Id and Name: 5905393 Bonavista
+City Id and Name: 2125693 Evensk
+City Id and Name: 874034 Galashki
+City Id and Name: 1529651 Altay
+City Id and Name: 1337612 Dhidhdhoo
+City Id and Name: 3653523 Palora
+City Id and Name: 2239862 Malanje
+City Id and Name: 1501377 Kungurtug
+City Id and Name: 5517061 Big Spring
+City Id and Name: 2035399 Songyuan
+City Id and Name: 2128975 Nemuro
+City Id and Name: 1214073 Rantauprapat
+City Id and Name: 124193 Meybod
+City Id and Name: 5572400 Susanville
+City Id and Name: 2146219 Hervey Bay
+City Id and Name: 1715015 Dicabisagan
+City Id and Name: 2542997 Marrakesh
+City Id and Name: 2963295 Killybegs
+City Id and Name: 2015217 Tokur
+City Id and Name: 6087892 Niagara Falls
+City Id and Name: 556268 Ostrovnoy
+City Id and Name: 3406202 Barreirinha
+City Id and Name: 779683 Hammerfest
+City Id and Name: 1502073 Krasnosel'kup
+City Id and Name: 1806840 Huilong
+City Id and Name: 3461090 Iporá
+City Id and Name: 361058 Alexandria
+City Id and Name: 1058381 Morondava
+City Id and Name: 5954718 Flin Flon
+City Id and Name: 914959 Kalulushi
+City Id and Name: 1283285 Jumla
+City Id and Name: 1789647 Xichang
+City Id and Name: 1805733 Jinchang
+City Id and Name: 2088163 Popondetta
+City Id and Name: 2014624 Udachny
+City Id and Name: 2396253 Tchibanga
+City Id and Name: 1626542 Sorong
+City Id and Name: 2079582 Alyangula
+City Id and Name: 964406 Port Shepstone
+City Id and Name: 1317375 Kyaikto
+City Id and Name: 2427036 Ngama
+City Id and Name: 2514301 Mahon
+City Id and Name: 365763 Tonj
+City Id and Name: 3984997 San Quintín
+City Id and Name: 4004293 Ixtapa
+City Id and Name: 3988392 Rosarito
+City Id and Name: 3146487 Raudeberg
+City Id and Name: 1513491 Yangi Marg`ilon
+City Id and Name: 145233 Ābdānān
+City Id and Name: 5554428 Ketchikan
+City Id and Name: 575521 Bogorodskoye
+City Id and Name: 3897347 Calama
+City Id and Name: 3388456 São José da Coroa Grande
+City Id and Name: 1528998 Yumen
+City Id and Name: 1498161 Muzhi
+City Id and Name: 3451138 Rio Grande
+City Id and Name: 3037902 Amboise
+City Id and Name: 2122783 Katangli
+City Id and Name: 2938991 Dannenberg
+City Id and Name: 2063036 Port Lincoln
+City Id and Name: 2640377 Penzance
+City Id and Name: 103630 Najrān
+City Id and Name: 2182010 Tairua
+City Id and Name: 5919850 Chapais
+City Id and Name: 261814 Koutsouras
+City Id and Name: 1502697 Kondinskoye
+City Id and Name: 2022317 Khor
+City Id and Name: 2022083 Kirensk
+City Id and Name: 1847947 Shingū
+City Id and Name: 3133983 Trofors
+City Id and Name: 878006 Mbekenyera
+City Id and Name: 1788852 Xining
+City Id and Name: 777019 Vardø
+City Id and Name: 1524302 Ereymentau
+City Id and Name: 7117880 Zarya
+City Id and Name: 2035836 Manzhouli
+City Id and Name: 2018735 Nyurba
+City Id and Name: 1337613 Kulhudhuffushi
+City Id and Name: 2138285 Tadine
+City Id and Name: 3372964 Lagoa
+City Id and Name: 2026023 Bukachacha
+City Id and Name: 1259395 Porbandar
+City Id and Name: 3924679 Vilhena
+City Id and Name: 5364271 Laguna
+City Id and Name: 3100637 Darłowo
+City Id and Name: 1786855 Yatou
+City Id and Name: 5888001 Atikokan
+City Id and Name: 1726449 Basco
+City Id and Name: 3703523 Palmas Bellas
+City Id and Name: 3839307 Rawson
+City Id and Name: 1045114 Inhambane
+City Id and Name: 3939168 Huarmey
+City Id and Name: 1715335 Davila
+City Id and Name: 3354071 Oranjemund
+City Id and Name: 654363 Kankaanpää
+City Id and Name: 2303611 Esim
+City Id and Name: 8079926 Labuhan
+City Id and Name: 1501000 Kyshtovka
+City Id and Name: 2068110 Kununurra
+City Id and Name: 2057087 Kupang
+City Id and Name: 3653967 Muisne
+City Id and Name: 2618795 Klaksvík
+City Id and Name: 1638775 Payo
+City Id and Name: 2309528 Luba
+City Id and Name: 453850 Zilupe
+City Id and Name: 3663693 Jutaí
+City Id and Name: 776175 Biała Podlaska
+City Id and Name: 1174872 Karachi
+City Id and Name: 3393692 Itarema
+City Id and Name: 2030065 Mandalgovi
+City Id and Name: 108410 Riyadh
+City Id and Name: 2449066 Tombouctou
+City Id and Name: 227592 Katete
+City Id and Name: 1276783 Basavakalyan
+City Id and Name: 779622 Havøysund
+City Id and Name: 1853140 Sakata
+City Id and Name: 535113 Lipin Bor
+City Id and Name: 2450173 Taoudenni
+City Id and Name: 1525988 Ayagoz
+City Id and Name: 3096090 Kłobuck
+City Id and Name: 3855065 General Roca
+City Id and Name: 1708743 Kinablangan
+City Id and Name: 4013679 Coahuayana Viejo
+City Id and Name: 779350 Karasjok
+City Id and Name: 2032201 Bulgan
+City Id and Name: 1638352 Lasem
+City Id and Name: 5101405 Morris
+City Id and Name: 1520381 Ordzhonīkīdze
+City Id and Name: 2123979 Kuril'sk
+City Id and Name: 2126785 Belaya Gora
+City Id and Name: 2610343 Vestmanna
+City Id and Name: 3946820 Barranca
+City Id and Name: 3351380 Caconda
+City Id and Name: 496358 Severnyy
+City Id and Name: 2122605 Okhotsk
+City Id and Name: 2249782 Kolda
+City Id and Name: 3167520 Santa Marinella
+City Id and Name: 1717787 Catuday
+City Id and Name: 3645213 Coro
+City Id and Name: 1002145 George
+City Id and Name: 3893629 Coquimbo
+City Id and Name: 1636022 Martapura
+City Id and Name: 3703239 Pedasí
+City Id and Name: 2662689 Visby
+City Id and Name: 3868308 Vicuña
+City Id and Name: 2347758 Bara
+City Id and Name: 3694112 Paita
+City Id and Name: 3136690 Stokmarknes
+City Id and Name: 142255 Bāfq
+City Id and Name: 4944903 Nantucket
+City Id and Name: 587207 Artyom
+City Id and Name: 669133 Răstoliţa
+City Id and Name: 3901547 Villamontes
+City Id and Name: 3664980 Boa Vista
+City Id and Name: 1168312 Pasni
+City Id and Name: 4328254 Iberia
+City Id and Name: 3175034 Lauria
+City Id and Name: 933677 Kasane
+City Id and Name: 1606323 Si Bun Rueang
+City Id and Name: 1507116 Dudinka
+City Id and Name: 3573374 The Valley
+City Id and Name: 1067565 Beloha
+City Id and Name: 57000 Hobyo
+City Id and Name: 1791673 Weihai
+City Id and Name: 1337610 Thinadhoo
+City Id and Name: 4734350 Stephenville
+City Id and Name: 514198 Ostrogozhsk
+City Id and Name: 2654970 Brae
+City Id and Name: 3358670 Arandis
+City Id and Name: 5072006 Lincoln
+City Id and Name: 1568510 Rach Gia
+City Id and Name: 1181636 Chakwal
+City Id and Name: 2132606 Samarai
+City Id and Name: 5563397 Eureka
+City Id and Name: 191833 Kinango
+City Id and Name: 2646557 Horsham
+City Id and Name: 3408368 Acaraú
+City Id and Name: 2063042 Port Hedland
+City Id and Name: 3428068 San Vicente
+City Id and Name: 2022003 Kizhinga
+City Id and Name: 2902768 Hof
+City Id and Name: 1633034 Palu
+City Id and Name: 6355222 Yulara
+City Id and Name: 2094746 Kandrian
+City Id and Name: 2317982 Yuli
+City Id and Name: 2644605 Lerwick
+City Id and Name: 3353383 Rundu
+City Id and Name: 3672512 Peque
+City Id and Name: 1235846 Matara
+City Id and Name: 2316748 Bolobo
+City Id and Name: 2405729 Masingbi
+City Id and Name: 2255542 Owando
+City Id and Name: 1122464 Taywarah
+City Id and Name: 1252668 Ziro
+City Id and Name: 5321473 Winslow
+City Id and Name: 3188582 Tuzla
+City Id and Name: 2610806 Vágur
+City Id and Name: 2058682 Wembley
+City Id and Name: 3468031 Camaçari
+City Id and Name: 1272502 Diu
+City Id and Name: 921786 Mitsamiouli
+City Id and Name: 1540356 Raduzhny
+City Id and Name: 371466 Leer
+City Id and Name: 2028164 Deputatsky
+City Id and Name: 1516048 Khovd
+City Id and Name: 4033356 Tiarei
+City Id and Name: 3670383 Saladoblanco
+City Id and Name: 141736 Bam
+City Id and Name: 3454005 Piaçabuçu
+City Id and Name: 2026160 Borogontsy
+City Id and Name: 3674702 Miranda
+City Id and Name: 792502 Bogovina
+City Id and Name: 3421319 Nuuk
+City Id and Name: 513329 Ozinki
+City Id and Name: 153352 Mlowo
+City Id and Name: 3382226 Camopi
+City Id and Name: 4568570 Vieques
+City Id and Name: 2372532 Gabú
+City Id and Name: 4169452 Punta Gorda
+City Id and Name: 5955902 Fort Nelson
+City Id and Name: 3576994 Cockburn Town
+City Id and Name: 3705562 Los Algarrobos
+City Id and Name: 1252783 Yārāda
+City Id and Name: 2655729 Bicester
+City Id and Name: 645035 Nastola
+City Id and Name: 2335713 Kafanchan
+City Id and Name: 1276092 Bhasāwar
+City Id and Name: 1485020 Znamenskoye
+City Id and Name: 1526038 Atbasar
+City Id and Name: 1674199 Yilan
