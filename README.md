@@ -1,7 +1,7 @@
 # Python-API-Challenges
 Python API Challenges
 
-WeatherPy Location: http://localhost:8888/notebooks/WeatherPy/WeatherPy.ipynb
+WeatherPy Location: http://localhost:8888/notebooks/WeatherPy/WeatherPy.ipynb                                               
 VacationPy Location: http://localhost:8888/notebooks/VacationPy/VacationPy.ipynb
 
 Summary for Project
